@@ -51,7 +51,7 @@ This project follows **Clean Architecture**:
 ```bash
 git clone https://github.com/MGlolzz/AwesomeGicBank.git
 cd AwesomeGicBank
-````
+```
 
 ### 2. Restore and build the solution
 
