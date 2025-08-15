@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E8F2B7-E605-42B0-A557-A36FE2FC74DE}|src\\Application\\Application.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\application\\services\\interestruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E8F2B7-E605-42B0-A557-A36FE2FC74DE}|src\\Application\\Application.csproj|solutionrelative:src\\application\\services\\interestruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\domain\\entities\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\domain\\abstractions\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\abstractions\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\domain\\entities\\interestrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\interestrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E4393F-B236-4476-A16F-0CE06E72C3A4}|tests\\Tests\\Tests.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\tests\\tests\\interestspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E4393F-B236-4476-A16F-0CE06E72C3A4}|tests\\Tests\\Tests.csproj|solutionrelative:tests\\tests\\interestspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C0A09-545D-4437-AF4C-1817EF33B819}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\infrastructure\\inmemoryinterestrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C0A09-545D-4437-AF4C-1817EF33B819}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\inmemoryinterestrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E4393F-B236-4476-A16F-0CE06E72C3A4}|tests\\Tests\\Tests.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\tests\\tests\\bankspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E4393F-B236-4476-A16F-0CE06E72C3A4}|tests\\Tests\\Tests.csproj|solutionrelative:tests\\tests\\bankspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E8F2B7-E605-42B0-A557-A36FE2FC74DE}|src\\Application\\Application.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E8F2B7-E605-42B0-A557-A36FE2FC74DE}|src\\Application\\Application.csproj|solutionrelative:src\\application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\domain\\abstractions\\iinterestrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401C798B-657B-4EDA-A28F-8231C4775263}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\abstractions\\iinterestrulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C0A09-545D-4437-AF4C-1817EF33B819}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\infrastructure\\inmemoryaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C0A09-545D-4437-AF4C-1817EF33B819}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\inmemoryaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E8F2B7-E605-42B0-A557-A36FE2FC74DE}|src\\Application\\Application.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\application\\services\\statementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E8F2B7-E605-42B0-A557-A36FE2FC74DE}|src\\Application\\Application.csproj|solutionrelative:src\\application\\services\\statementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B375EAA3-4B0E-442E-8C2A-621EAF96AB4D}|src\\Cli\\Cli.csproj|c:\\users\\waysi\\onedrive\\documents\\awesomegicbank\\awesomegicbank\\src\\cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B375EAA3-4B0E-442E-8C2A-621EAF96AB4D}|src\\Cli\\Cli.csproj|solutionrelative:src\\cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterestSpecs.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\tests\\Tests\\InterestSpecs.cs",
+              "RelativeDocumentMoniker": "tests\\Tests\\InterestSpecs.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\tests\\Tests\\InterestSpecs.cs",
+              "RelativeToolTip": "tests\\Tests\\InterestSpecs.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:38:26.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterestRule.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Entities\\InterestRule.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\InterestRule.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Entities\\InterestRule.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\InterestRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:36:47.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterestRuleService.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Application\\Services\\InterestRuleService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\InterestRuleService.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Application\\Services\\InterestRuleService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\InterestRuleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:37:24.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInterestRuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Abstractions\\IInterestRuleRepository.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Abstractions\\IInterestRuleRepository.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Abstractions\\IInterestRuleRepository.cs",
+              "RelativeToolTip": "src\\Domain\\Abstractions\\IInterestRuleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:09:49.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Entities\\Account.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:27:43.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatementService.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Application\\Services\\StatementService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\StatementService.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Application\\Services\\StatementService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\StatementService.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAArwGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:58:28.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Entities\\BankTransaction.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\BankTransaction.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Entities\\BankTransaction.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\BankTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:31:35.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Abstractions\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Abstractions\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Domain\\Abstractions\\IAccountRepository.cs",
+              "RelativeToolTip": "src\\Domain\\Abstractions\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:24:20.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryInterestRuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Infrastructure\\InMemoryInterestRuleRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\InMemoryInterestRuleRepository.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Infrastructure\\InMemoryInterestRuleRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\InMemoryInterestRuleRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:04:45.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\TransactionService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:19:45.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankSpecs.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\tests\\Tests\\BankSpecs.cs",
+              "RelativeDocumentMoniker": "tests\\Tests\\BankSpecs.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\tests\\Tests\\BankSpecs.cs",
+              "RelativeToolTip": "tests\\Tests\\BankSpecs.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:12:06.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InMemoryAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Infrastructure\\InMemoryAccountRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\InMemoryAccountRepository.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Infrastructure\\InMemoryAccountRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\InMemoryAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:24:42.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Cli\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Cli\\Program.cs",
+              "ToolTip": "C:\\Users\\waysi\\OneDrive\\Documents\\AwesomeGicBank\\AwesomeGicBank\\src\\Cli\\Program.cs",
+              "RelativeToolTip": "src\\Cli\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:09:20.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
