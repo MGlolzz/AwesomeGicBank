@@ -3,7 +3,7 @@ Here is a complete and well-formatted `README.md` file for your project `Awesome
 ---
 
 ````markdown
-# 🏦 AwesomeGicBank
+# AwesomeGicBank
 
 A modular, testable, and production-ready .NET 8 banking system designed for clean architecture, SOLID principles, and extensibility.
 
