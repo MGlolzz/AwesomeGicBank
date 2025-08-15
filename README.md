@@ -47,8 +47,9 @@ This project follows **Clean Architecture**:
 ## Setup & Run
 
 ### 1. Clone the repo
+
 ```bash
-git clone https://github.com/your-username/AwesomeGicBank.git
+git clone https://github.com/MGlolzz/AwesomeGicBank.git
 cd AwesomeGicBank
 ````
 
